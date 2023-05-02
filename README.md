@@ -32,7 +32,7 @@ About Me
 👯 I’m looking to collaborate on any projects that may add to my knowledge and skills (free of charge)
 
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-scarcelli-lucianelli-95b834238/)
