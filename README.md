@@ -20,7 +20,7 @@ About Me
 🔭  I'm Gustavo Lucianelli, a 25 years old psychology major, with profound interest in Web Development, currently studying Systems for Internet at UniAsselvi and learning front-end development from various sources 
 
 
-📊 Currently i have no professional experience in the programming areas (outside of messing around is VScode 😁)
+📊 Currently i have no professional experience in the programming areas, but i am taking bootcamps and free courses (Currently following Origamid and The Odin Project)
 
 
 📈 I'm currently learning JavaScript and programming logic
