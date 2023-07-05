@@ -26,7 +26,7 @@ About Me
 📈 I'm currently learning JavaScript and programming logic
 
 
-🥇 Skills learned: HTML, CSS, Basic JavaScript
+🥇 Skills learned: HTML, CSS, JavaScript
 
 
 👯 I’m looking to collaborate on any projects that may add to my knowledge and skills (free of charge)
