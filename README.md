@@ -23,7 +23,7 @@ About Me
 📊 Currently i have no professional experience in the programming areas, but i am taking bootcamps and free courses (Currently following Origamid and The Odin Project)
 
 
-📈 I'm currently learning JavaScript and programming logic
+📈 I'm currently learning React.JS
 
 
 🥇 Skills learned: HTML, CSS, JavaScript
