@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 About Me
 
-🔭  I'm Gustavo Lucianelli, a 25 years old psychology major, with profound interest in Web Development, currently studying Systems for Internet at UniAsselvi and learning front-end development from various sources 
+🔭 I'm Gustavo Lucianelli, a psychology major, with profound interest in Web Development, currently studying Systems for Internet at UniAsselvi and learning full-stack development from various sources 
 
 
 📊 I made two Freelance jobs! (CropTrak and Serralheria Martins Website)
