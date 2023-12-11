@@ -20,7 +20,10 @@ About Me
 🔭  I'm Gustavo Lucianelli, a 25 years old psychology major, with profound interest in Web Development, currently studying Systems for Internet at UniAsselvi and learning front-end development from various sources 
 
 
-📊 Currently i have no professional experience in the programming areas, but i am taking bootcamps (Imã Tech Sharp Coders) and free courses (Currently following Origamid and The Odin Project)
+📊 I made two Freelance jobs! (CropTrak and Serralheria Martins Website)
+
+
+⚡ Right now, i am taking bootcamps (Imã Tech Sharp Coders) and free courses (Currently following Origamid and The Odin Project)
 
 
 📈 I'm currently learning Angular(17+) and C#!
@@ -29,7 +32,7 @@ About Me
 🥇 Skills learned: HTML, CSS, JavaScript, Tailwind, Bootstrap
 
 
-👯 I’m looking to collaborate on any projects that may add to my knowledge and skills (free of charge)
+👯 I’m looking to collaborate on any projects that may add to my knowledge and skills
 
 
 📫 How to reach me:
