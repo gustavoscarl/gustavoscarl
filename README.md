@@ -26,7 +26,7 @@ About Me
 ⚡ Right now, i am taking bootcamps (Imã Tech Sharp Coders) and free courses (Currently following Origamid and The Odin Project)
 
 
-📈 I'm currently learning Angular(17+) and C#!
+📈 I'm currently learning Angular and C#!
 
 
 🥇 Skills learned: HTML, CSS, JavaScript, Tailwind, Bootstrap
